@@ -1,0 +1,19 @@
+[Dir src]
+Dirs=libevhttpget/web
+Files=
+
+[Dir src/libevhttpget]
+Dirs=
+Files=evhttpget.h/lib-test.c/Makefile
+
+[Dir src/web]
+Dirs=
+Files=index.html
+
+[Project Dir]
+Dirs=admin/docs/src
+Files=
+
+[Project File]
+Name=libevhttpget
+Type=Default
